@@ -50,4 +50,6 @@ def walk_dogs
 dogs.each {|dogs| dogs.mood = 'happy'}
 end 
 
+
+
 end 
